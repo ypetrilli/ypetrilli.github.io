@@ -1,4 +1,4 @@
 # ypetrilli.github.io
-My cv resume page
+yuli petrilli resume page
 
 Go to the site --> https://ypetrilli.github.io/
